@@ -6,7 +6,7 @@ Opens up new possibilities in satellite communications. Distant devices are fast
 ![image info](./Fig2.jpg)
 
 ## How to Run 
-
+python test.py
 
 ## Version Information 
 - Python 3.8
