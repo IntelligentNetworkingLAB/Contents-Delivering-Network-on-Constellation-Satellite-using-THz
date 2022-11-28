@@ -2,8 +2,8 @@
 
 ## Overview
 Opens up new possibilities in satellite communications. Distant devices are faster due to his communication will be able to do. This paper is in space to be ready to mesh constellation satellite network the rapidly moving airplanes and satellites and open about how to send and receive content. In addition, content delivery sequence optimization and how to optimize energy research. Communication between satellites, airplanes, and intersatellite was made possible using the THz bandwidth. The optimization problem is assumed to have different available power in the Mesh constellation satellite network and is solved using the Dijkstra algorithm considering the power of satellites. And order to optimize energy Reinforcement learning and fix the problem. As a result, the proposed method was the only way to satisfy a given latency (0.1 s) compared to using power at random and other methods with minimal power. This was a method of appropriately using energy while maintaining the maximum latency time in communication.
-![image info](./fig1.png)
-![image info](./fig2.png)
+![image info](./fig1.jpg)
+![image info](./Fig2.jpg)
 
 ## How to Run 
 
